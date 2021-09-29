@@ -1,0 +1,21 @@
+.btn{
+  background-color: #9615b6;
+  border: 2px white;
+  border-radius: 25px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#name{
+    text-align: center;
+    padding: 6px 10px;
+    color: tomato;
+}
+#email{
+  text-align: center;
+  padding: 6px 10px;
+  color: tomato;
+}
